@@ -1,0 +1,28 @@
+{
+  "name": "launch-chrome-app",
+  "version": "1.0.0",
+  "description": "A module that is a cross platform launcher for chrome apps",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test-launch-chrome-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/launch-chrome-app.git"
+  },
+  "keywords": [
+    "chromiumify",
+    "chrome",
+    "app",
+    "CPA"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/launch-chrome-app/issues"
+  },
+  "homepage": "https://github.com/No9/launch-chrome-app#readme"
+}
