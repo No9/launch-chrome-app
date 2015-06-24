@@ -1,6 +1,6 @@
 {
   "name": "launch-chrome-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that is a cross platform launcher for chrome apps",
   "main": "index.js",
   "directories": {

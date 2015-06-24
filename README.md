@@ -1,8 +1,9 @@
 # launch-chrome-app
-A cross platform launcher for chrome apps
+A module that is a cross platform launcher for chrome apps
 
 Part of [chromiumify](https://github.com/chromiumify "chromiumify")
 
+![info](https://nodei.co/npm/launch-chrome-app.png)
 ## install
 
 ```sh
