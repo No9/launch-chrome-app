@@ -1,5 +1,8 @@
 # launch-chrome-app
-A module that is a cross platform launcher for chrome apps
+A cross platform module for installing/launching for chrome apps in node.
+
+See https://github.com/No9/clowder/blob/master/postinstall/postinstall.js and 
+https://github.com/No9/clowder/blob/master/package.json#L13 for an example of using this to enable Chrome Extension installs from NPM.
 
 Part of [chromiumify](https://github.com/chromiumify "chromiumify")
 
